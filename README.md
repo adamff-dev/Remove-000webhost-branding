@@ -1,5 +1,5 @@
 # Remove 000webhost branding
-A little trick to remove 000webhost branding without being a premium user.
+A little trick to remove <a href="https://www.000webhost.com/">000webhost</a> branding without being a premium user.
 
 000webhost branding:
 
@@ -23,3 +23,5 @@ For this:
 &lt;/html&gt;
 --&gt;
 </pre></code>
+
+And that's all!
